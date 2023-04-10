@@ -6,4 +6,4 @@
 2. two
 3. three
 
-![Image]("Periodic Table.png")
+![Image](https://github.com/zsusanna6/cse15l-lab-reports/blob/main/Periodic%20Table.png)
