@@ -38,3 +38,10 @@
 ![Image](pic7.png)
 
 
+# Fourth Step: Try Some Commands!
+
+1. Try running commands like ls, cd, pwd, cp, and mkdir in different ways and observe the output. Try commands on both your computer and the remote server after connection. Below is examples of 10 different commands and their outputs in terminal. 
+
+![Image](pic8.png)
+
+ 2. after you are done, you can log out of the remote server with the command "exit".
